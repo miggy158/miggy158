@@ -1,8 +1,13 @@
-<h1>Hi 👋,  I'm Miguel Jadraque</h1>
+##  Hi 👋,  I'm Miguel Jadraque
 
-###
+I'm **Miggy**, a passionate frontend and backend dev 
 
-<div align="center">
+## About Me
+
+I'm based in **University of Caloocan City** and have a keen interest in software development. I enjoy working on various projects that challenge my skills and allow me to learn new technologies. Currently, I am exploring **Python** and **Java**.
+
+## Skills & Technologies
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
@@ -24,9 +29,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-###
+## Top Projects
 
-<div align="center">
+- [**miggy158**](https://github.com/miggy158/miggy158) - A personal repository showcasing various projects. ⭐️ 2 Stars
+- [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics) - A Python project exploring lyrics yearning for someone you know shouldn't. ⭐️ 6 Stars
+- [**Python--alipin-lyrics-**](https://github.com/miggy158/Python--alipin-lyrics-) - Another lyrics project in Python. ⭐️ 1 Star
+- [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse) - A simple calculator built with JavaScript. ⭐️ 1 Star
+
+## GitHub Stats
+
+🏆 **Public Repositories:** 4  
+👥 **Followers:** 8  
+🔗 **Following:** 3  
+
+
+## Recent Activity
+
+- Pushed code to [**miggy158**](https://github.com/miggy158/miggy158) repository.
+- Opened a pull request in [**miggy158**](https://github.com/miggy158/miggy158).
+- Created a new branch in [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
+- Watched the repo [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
+- Pushed code to [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse).
+
+## Latest Blog Posts
+
+No recent blog posts available yet. Stay tuned!
+
+## Connect with Me
+
+<div>
   <a href="https://www.facebook.com/ericmiguel.jadraque.1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
@@ -37,5 +68,4 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-###
 
