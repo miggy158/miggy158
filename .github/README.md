@@ -1,6 +1,29 @@
-##  Hi 👋,  I'm Miguel Jadraque
+<h1 align="center">Hi 👋, I'm Miguel Jadraque</h1>
 
-I'm **Miggy**, a passionate frontend and backend dev 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miggy158" alt="Profile view counter on GitHub" />
+
+  <a href="mailto:ericmigueljadraque7@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Gmail-important?style=flat&logo=gmail"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.tiktok.com/@migzzdlqt" target="_blank">
+    <img
+      src="https://img.shields.io/badge/TikTok-miggy-blue?style=flat&logo=TikTok"
+      alt="TikTok"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/_ur.migz/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-_ur.migz-red?style=flat&logo=Instagram"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
 ## About Me
 
