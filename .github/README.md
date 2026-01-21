@@ -61,7 +61,7 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 - [**miggy158**](https://github.com/miggy158/miggy158) - A personal repository showcasing various projects. 
 - [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics) - A Python project exploring lyrics yearning for someone you know shouldn't. ⭐️ 8 Stars
 - [**Python--alipin-lyrics-**](https://github.com/miggy158/Python--alipin-lyrics-) - Another lyrics project in Python. ⭐️ 1 Star
-- [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse) - A simple calculator built with JavaScript. ⭐️ 1 Star
+- [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse) - A simple calculator built with JavaScript. ⭐️ 2 Star
 
 
 ## GitHub Stats
