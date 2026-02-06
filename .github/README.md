@@ -67,8 +67,8 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 ## GitHub Stats
 
 🏆 **Public Repositories:** 4  
-👥 **Followers:** 16  
-🔗 **Following:** 4  
+👥 **Followers:** 17  
+🔗 **Following:** 5  
 
 
 ## Recent Activity
