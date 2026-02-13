@@ -79,9 +79,6 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 - Watched the repo [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
 - Pushed code to [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse).
 
-## Latest Blog Posts
-
-No recent blog posts available yet. Stay tuned!
 
 ## Connect with Me
 
