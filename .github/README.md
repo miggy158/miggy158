@@ -79,7 +79,7 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 - Created a new branch in [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
 - Watched the repo [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
 - Pushed code to [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse).
-
+= A new repo [**JUMWORD**](https://github.com/miggy158/JUMWORD.git).
 
 ## Connect with Me
 
