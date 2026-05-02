@@ -59,7 +59,7 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 ## Top Projects
 
 - [**miggy158**](https://github.com/miggy158/miggy158) - A personal repository showcasing various projects. 
-- [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics) - A Python project exploring lyrics yearning for someone you know shouldn't. ⭐️ 11 Stars
+- [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics) - A Python project exploring lyrics yearning for someone you know shouldn't. ⭐️ 13 Stars
 - [**Python--alipin-lyrics-**](https://github.com/miggy158/Python--alipin-lyrics-) - Another lyrics project in Python. ⭐️ 2 Star
 - [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse) - A simple calculator built with JavaScript. ⭐️ 3 Star
 - [**JUMWORD**](https://github.com/miggy158/JUMWORD.git) - A Java Swing word-unscrambling game where players identify jumbled Philippine cities and provinces across three difficulty levels Luzon, Visayas, and Mindanao. ⭐️ 1 Star
