@@ -69,7 +69,7 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 
 🏆 **Public Repositories:** 8  
 👥 **Followers:** 21  
-🔗 **Following:** 6  
+🔗 **Following:** 7  
 
 ## Connect with Me
 
