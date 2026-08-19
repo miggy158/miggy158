@@ -71,16 +71,6 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
 👥 **Followers:** 21  
 🔗 **Following:** 6  
 
-
-## Recent Activity
-
-- Pushed code to [**miggy158**](https://github.com/miggy158/miggy158) repository.
-- Opened a pull request in [**miggy158**](https://github.com/miggy158/miggy158).
-- Created a new branch in [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
-- Watched the repo [**kalapastangan--python-lyrics**](https://github.com/miggy158/kalapastangan--python-lyrics).
-- Pushed code to [**Calculator_relapse**](https://github.com/miggy158/Calculator_relapse).
-- A new repository [**JUMWORD**](https://github.com/miggy158/JUMWORD.git).
-
 ## Connect with Me
 
 <div>
