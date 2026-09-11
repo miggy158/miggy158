@@ -27,7 +27,7 @@
 
 ## About Me:
 
-I'm based in **University of Caloocan City** and have a kinda interest in software development. I enjoy working on various projects that challenge my skills and allow me to learn new technologies. Currently, I am exploring **Python** and **Java**.
+I'm based in **University of Caloocan City** and have a kinda interest in software development. I enjoy working on various projects that challenge my skills and allow me to learn new technologies.
 
 ## Skills & Technologies
 <div>
