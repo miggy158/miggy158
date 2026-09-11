@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Jadraque</h1>
+<h1 align="center">Hi, I'm Miguel Jadraque</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miggy158" alt="Profile view counter on GitHub" />
