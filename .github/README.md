@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="./assets/newjeans.gif" width="200" alt="Animated GIF banner" />
+  <img
+    src="./assets/Persona%205%20Aesthetic%20Buildings.jpg"
+    alt="Persona 5 banner"
+    width="735"
+  />
 </p>
-<br>
-<br>
 
 <h1 align="center">Hi, I'm Miguel Jadraque</h1>
 
