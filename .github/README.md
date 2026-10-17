@@ -1,10 +1,8 @@
 <p align="center">
-  <img
-    src="./assets/Persona%205%20Aesthetic%20Buildings.jpg"
-    alt="Persona 5 banner"
-    width="735"
-  />
+  <img src="./assets/newjeans.gif" width="200" alt="Animated GIF banner" />
 </p>
+<br>
+<br>
 
 <h1 align="center">Hi, I'm Miguel Jadraque</h1>
 
@@ -31,7 +29,9 @@
       alt="Instagram"
     />
   </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=F613F7&center=true&vCenter=true&width=435&lines=I+shall+either+find+a+way+;or+make+one" alt="Typing SVG" /></a>
 </p>
+
 
 ## About Me:
 
