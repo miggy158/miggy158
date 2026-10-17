@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/newjeans.gif" width="200" alt="Animated GIF banner" />
+</p>
+<br>
+<br>
+
 <h1 align="center">Hi, I'm Miguel Jadraque</h1>
 
 <p align="center">
