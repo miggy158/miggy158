@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./assets/newjeans.gif" width="200" alt="Animated GIF banner" />
-  <h1 align="center">Hi, I'm Miguel Jadraque</h1>
+  <img src="./miggy.gif" alt="Miguel Jadraque - Persona Tech Banner" width="100%" />
 </div>
 
 
