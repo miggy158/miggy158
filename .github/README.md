@@ -1,5 +1,6 @@
-![Miguel Jadraque Tech Banner](./miggy.gif)
-
+<div align="center">
+  <img src="./.github/assets/miggy.gif" width="100%" alt="Miguel Jadraque Banner" />
+</div>
 
 
 <p align="center">
