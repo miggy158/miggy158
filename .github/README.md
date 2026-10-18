@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="../assets/miggy.gif" alt="Miguel Jadraque - Persona Tech Banner" width="100%" />
-</div>
+![Miguel Jadraque Tech Banner](./miggy.gif)
 
 
 
