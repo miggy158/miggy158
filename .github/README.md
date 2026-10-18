@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./miggy.gif" alt="Miguel Jadraque - Persona Tech Banner" width="100%" />
+  <img src="../assets/miggy.gif" alt="Miguel Jadraque - Persona Tech Banner" width="100%" />
 </div>
 
 
