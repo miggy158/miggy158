@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/assets/ezgif.com-resize.gif" width="100%" alt="Miguel Jadraque Banner" />
+  <img src="./.github/assets/miggy.gif" width="100%" alt="Miguel Jadraque Banner" />
 </div>
 
 
