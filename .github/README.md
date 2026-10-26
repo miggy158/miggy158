@@ -58,6 +58,17 @@ I'm based in **University of Caloocan City** and have a kinda interest in softwa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miggy158&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miggy158&layout=compact&langs_count=8&theme=react"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miggy158&theme=react-dark&hide_border=true&area=true" width="90%">
+</div>
+
 ###
 
 ## Connect with Me
