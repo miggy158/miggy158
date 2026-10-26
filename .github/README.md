@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/newjeans.gif" width="200" alt="Animated GIF banner" />
-</p>
+<div align="center">
+  <img src="./.github/assets/miggy.gif" width="100%" alt="Miguel Jadraque Banner" />
+</div>
 <br>
 <br>
 
